@@ -7,4 +7,4 @@ sayHello();
 
 console.log(_.random(0,3));
 
-$('.fancy-header').append(', is');
+$('.fancy-header').html('Nap Time!');
